@@ -1,0 +1,127 @@
+city,threshold_temp
+# Middle East
+Riyadh,45
+Doha,45
+Jeddah,42
+Tehran,40
+Istanbul,35
+
+# Southeast Asia
+Bangkok,38
+Jakarta,36
+Kuala Lumpur,35
+Manila,36
+Hanoi,37
+
+# European Cities
+Amsterdam,30
+Brussels,30
+Vienna,30
+Prague,30
+Stockholm,28
+Copenhagen,28
+Oslo,28
+Helsinki,26
+Zurich,30
+Milan,35
+
+# North America
+Montreal,30
+Calgary,28
+Ottawa,31
+Washington DC,35
+Boston,32
+San Francisco,30
+Seattle,32
+Miami,34
+Atlanta,36
+Dallas,40
+
+# South America
+Sao Paulo,33
+Rio de Janeiro,36
+Buenos Aires,35
+Lima,30
+Bogota,24
+Santiago,35
+Caracas,34
+
+# African Cities
+Cairo,38
+Lagos,36
+Nairobi,28
+Johannesburg,32
+Cape Town,34
+Casablanca,38
+Addis Ababa,26
+
+# Additional Asian Cities
+Seoul,33
+Osaka,35
+Kyoto,36
+Hong Kong,34
+Taipei,35
+Kolkata,38
+Dhaka,36
+Karachi,45
+Lahore,46
+Islamabad,42
+
+# Oceania
+Auckland,28
+Brisbane,37
+Perth,40
+Adelaide,38
+Canberra,35
+
+# India
+Mumbai,37
+Delhi,45
+Chennai,40
+Bangalore,37
+Hyderabad,42
+Pune,38
+Ahmedabad,45
+Jaipur,44
+Surat,42
+Kanpur,44
+Nagpur,47
+Visakhapatnam,38
+Indore,42
+Thane,37
+Bhopal,42
+Patna,42
+Vadodara,42
+Ghaziabad,44
+Ludhiana,43
+Agra,44
+Nashik,38
+Faridabad,44
+Meerut,44
+Rajkot,43
+Kalyan-Dombivli,37
+Vasai-Virar,37
+Varanasi,43
+Srinagar,30
+Aurangabad,42
+Dhanbad,42
+Amritsar,43
+Navi Mumbai,37
+Allahabad,43
+Ranchi,38
+Howrah,38
+Gwalior,44
+Jabalpur,42
+Coimbatore,38
+Vijayawada,40
+Jodhpur,46
+Madurai,39
+Raipur,42
+Kota,45
+Guwahati,36
+Chandigarh,43
+Thiruvananthapuram,35
+Solapur,42
+Tiruchirappalli,39
+Bareilly,43
+Moradabad,43
